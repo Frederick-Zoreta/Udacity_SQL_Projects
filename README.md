@@ -1,4 +1,4 @@
-# Udacity_SQL_Projects
+# Udacity_SQL_Projects  by Udacity
 This was my first project for Udacity's SQL Nanodegree Program
 
 Overview
